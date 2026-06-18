@@ -1,2 +1,2 @@
 Modified Z Assembly Files
-  1. Z Carriage For larger Prusa style 25mm OD leadscrew T-nut 
+  1. Modified Z carriage for larger Prusa style 25mm OD leadscrew T-nut.
